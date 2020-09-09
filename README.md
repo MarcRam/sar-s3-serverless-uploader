@@ -1,6 +1,6 @@
 # Serverless S3 Uploader
 
-The Serverless S3 Uploader allows you to upload JPG files to Amazon S3 buckets from your web applications using pre-signed URLs.
+The Serverless S3 Uploader allows you to upload PDF files to Amazon S3 buckets from your web applications using pre-signed URLs.
 
 Important: this application uses various AWS services and there are costs associated with these services after the Free Tier usage - please see the [AWS  pricing page](https://aws.amazon.com/pricing/) for details.
 
