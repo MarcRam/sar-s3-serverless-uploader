@@ -48,7 +48,7 @@ const getUploadURL = async function() {
       },
       "body": JSON.stringify({
           "uploadURL": s3.getSignedUrl('putObject', s3Params),
-          "photoFilename": `${actionId}.pdf`
+          "pdfFilename": `${actionId}.pdf`
       })
     })
   })
